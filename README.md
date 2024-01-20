@@ -7,8 +7,8 @@
 
 O projeto **Barbie Black Metal** é uma iniciativa artística da talentosa Gwenmarie White, que desafia as normas convencionais ao recriar as clássicas propagandas da boneca Barbie sob uma perspectiva obscura e inspirada no gênero musical black metal. 
 
-### Trailer
-Na seção "Trailer," explore o vídeo que apresenta as Barbies Black Metal disponível no YouTube. O vídeo está disponível [aqui](https://www.youtube.com/embed/yKRxmFKSLpw?si=7U7GGj_zUGYyZzaZ).
+### Video
+A seção "Video" contém a postagem da criadora que apresenta as Barbies Black Metal no YouTube. Está disponível [aqui](https://www.youtube.com/embed/yKRxmFKSLpw?si=7U7GGj_zUGYyZzaZ).
 
 ### Matéria
 A seção "Matéria" oferece insights sobre a criação do projeto. Saiba mais sobre a abordagem única de Gwenmarie White ao subverter as propagandas tradicionais da Barbie, explorando como ela simulou uma coleção inspirada no black metal. [Leia mais](https://rollingstone.uol.com.br/noticia/barbies-versao-black-metal-sao-mais-bizarras-do-que-voce-consegue-imaginar/).
