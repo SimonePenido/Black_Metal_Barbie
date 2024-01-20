@@ -3,9 +3,14 @@
 ![8](https://github.com/SimonePenido/Black_Metal_Barbie/assets/112627846/09647f6e-e573-478f-9ddb-591adcca8afd)
 
 
+
 ## Descrição do Projeto
 
-O projeto **Barbie Black Metal** é uma iniciativa artística da talentosa Gwenmarie White, que desafia as normas convencionais ao recriar as clássicas propagandas da boneca Barbie sob uma perspectiva obscura e inspirada no gênero musical black metal. 
+Projeto de pagina web estática utilizando HTML e CSS, inspirado no projeto da aula 10 do projeto Elas Na Tech | 2023- JA Brasil. Deploy:
+GitHub Pages. Tema: Barbie Black Metal.
+Imagens geradas por inteligência artificial utilizando Bing Copilot.
+
+O vídeo **Barbie Black Metal** foi uma iniciativa artística da talentosa Gwenmarie White, que desafiou as normas convencionais ao recriar as clássicas propagandas da boneca Barbie sob uma perspectiva obscura e inspirada no gênero musical black metal. 
 
 ### Video
 A seção "Video" contém a postagem da criadora que apresenta as Barbies Black Metal no YouTube. Está disponível [aqui](https://www.youtube.com/embed/yKRxmFKSLpw?si=7U7GGj_zUGYyZzaZ).
